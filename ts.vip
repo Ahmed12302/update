@@ -1,15 +1,25 @@
 {
   "ok": true,
-  "message": "Success",
-  "access_token": "token_123",
-  "refresh_token": "refresh_123",
-  "id_token": "id_123",
-  "unlock": "YOUR_UNLOCK_KEY",
+  "message": "VIP Active",
+  "status": "VIP",
   "nickname": "VIP User",
+  "activation": "2026-01-01",
+  "expiry": "2099-12-31",
+  "activation_ts": 1767225600,
+  "expiry_ts": 4102444800,
   "days_left": 999,
   "total_logins": 1,
   "new_activation": false,
+  "access_token": "vip_token_123",
+  "refresh_token": "vip_refresh_123",
+  "id_token": "vip_id_123",
+  "unlock": "VIP_UNLOCK_KEY",
   "permissions": {
-    "vip": true
+    "vip": true,
+    "send_card": true,
+    "sendcard": true,
+    "airport": true,
+    "airscore": true,
+    "air": true
   }
 }
