@@ -11,7 +11,7 @@
   "access_token": "token_123",
   "refresh_token": "refresh_123",
   "id_token": "id_123",
-  "unlock": "123456",
+  "unlock": "YOUR_UNLOCK_KEY",
   "total_logins": 1,
   "new_activation": false,
   "permissions": {
