@@ -1,15 +1,14 @@
 {
   "ok": true,
   "key": "123456",
-  "access_token": "token_123",
-  "refresh_token": "refresh_123",
-  "unlock": "test_unlock",
   "account_name": "VIP User",
-  "nickname": "VIP User",
   "status": "VIP",
   "days_left": 999,
   "activation": "2026-01-01",
   "expiry": "2099-12-31",
+  "access_token": "token_123",
+  "refresh_token": "refresh_123",
+  "unlock": "test_unlock",
   "message": "Login Successful",
   "permissions": {
     "vip": true,
