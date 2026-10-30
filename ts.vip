@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "message": "Success",
+  "access_token": "token_123",
+  "refresh_token": "refresh_123",
+  "id_token": "id_123",
+  "unlock": "YOUR_UNLOCK_KEY",
+  "nickname": "VIP User",
+  "days_left": 999,
+  "total_logins": 1,
+  "new_activation": false,
+  "permissions": {
+    "vip": true
+  }
+}
