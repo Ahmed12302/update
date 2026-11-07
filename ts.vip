@@ -13,6 +13,8 @@
   "permissions": {
     "vip": true,
     "airport": true,
-    "send_card": true
+    "airscore": true,
+    "send_card": true,
+    "sendcard": true
   }
 }
