@@ -10,20 +10,23 @@
   "refresh_token": "refresh_123",
   "unlock": "test_unlock",
   "message": "Login Successful",
+  "tools": [
+    "township",
+    "gardenscapes",
+    "homescapes",
+    "fishdom"
+  ],
   "permissions": {
     "vip": true,
+    "township": true,
+    "from_data": true,
+    "fromdata": true,
     "ts_data": true,
     "tsdata": true,
-    "data": true,
-    "tools": true,
+    "send_card": true,
+    "send_cards": true,
     "airport": true,
     "airscore": true,
-    "send_card": true,
-    "sendcard": true,
-    "send_cards": true,
-    "regatta": true,
-    "profile": true,
-    "clone": true,
-    "unban": true
+    "regatta": true
   }
 }
