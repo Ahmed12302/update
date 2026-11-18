@@ -24,6 +24,7 @@
     "ts_data": true,
     "tsdata": true,
     "send_card": true,
+    "sendcard": true,
     "send_cards": true,
     "airport": true,
     "airscore": true,
