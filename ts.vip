@@ -28,6 +28,12 @@
     "send_cards": true,
     "airport": true,
     "airscore": true,
-    "regatta": true
+    "regatta": true,
+    "golden_pass_gift": true,
+    "send_pass_gift": true,
+    "coop_gift": true,
+    "co-op_gift": true,
+    "gift": true,
+    "coop": true
   }
 }
